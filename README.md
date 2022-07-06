@@ -1,7 +1,7 @@
 ### olá sou Wenderson Bruno 👋
 
 - 🔭 Hoje estou trabalhando com Front-End and Back-end
-- 🌱 Estou estudando Angular ,Typescrypt, 
+- 🌱 Estou estudando  JS -> Typescrypt -> Angular
 - 📫 Contate-me no email wenderson.bruno.nogueira@gmail.com
 
 <div align="center">
