@@ -1,7 +1,7 @@
 ### olá sou Wenderson Bruno 👋
-- 🐬 Front-end developer
-- 🔭 Estudando para se tornar Desenvolvedor Fullstack
-- 🌱 Estou estudando  JS -> React and node.js
+- 🐬 developer
+- 🔭 Desenvolvedor Fullstack
+- 🌱  JS => React and Angular and node.js | JAVA 
 - 📫 Contate-me no email wenderson.bruno.nogueira@gmail.com
 
 <div align="center">
