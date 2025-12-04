@@ -1,52 +1,56 @@
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
-  <!-- LADO ESQUERDO - CONTEÚDO -->
-  <div style="max-width: 60%;">
+# 🚀 Olá, eu sou WendersonBruno_ 
 
-### Olá, eu sou WendersonBruno_ 👋  
 
-<img width="12" src="https://github.com/user-attachments/assets/c555f66e-7e92-4ffc-8493-e676fa6c3347" /> Desenvolvedor Fullstack com 4 anos de experiência  
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desenvolvedor+Fullstack+há+mais+de+4+anos,;Admirador+de+desafios+criativos,;soluções+inovadoras,;Foco+é+a+chave+do+sucesso"></a>
 <br>
-<img width="12" src="https://github.com/user-attachments/assets/c555f66e-7e92-4ffc-8493-e676fa6c3347" /> Expertise em desenvolvimento web e backend  
+## Sobre mim
+
+✨ Sou um desenvolvedor Fullstack há mais de 4 anos 
+
+✨ Tenho experiência com Java, Spring Boot, MySQL, Docker, e Git
+
+✨ Tenho conhecimentos no Front com React, tailwin, CSS
+
+✨ Estou me especializando em Spring Framework, APIs REST e Microsserviços
 <br>
-<img width="12" src="https://github.com/user-attachments/assets/c555f66e-7e92-4ffc-8493-e676fa6c3347" /> Experiência com **Java, Spring Boot, MySQL, Docker e Git**  
-<br>
-<img width="12" src="https://github.com/user-attachments/assets/c555f66e-7e92-4ffc-8493-e676fa6c3347" /> Especializando-se em **Spring Framework, APIs REST e Microsserviços**
+## Habilidades Tecnológicas
 
-<br> 
+💻 Aqui estão algumas das tecnologias que eu domino:
 
-📩 **Contato:**  
-📫 **Email:** wenderson.bruno.nogueira@gmail.com  
+-  Linguagens de Programação: 
 
-<br>
+    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+- Frameworks e Bibliotecas: 
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</div>
+    [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
+- Dados: 
 
-<br><br>
+    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+- Ferramentas e Tecnologias: 
 
-<div> 
-  <a href="https://www.instagram.com/w.brunow_/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
+- Desenvolvimento Web:
 
-  <a href="mailto:wendersonbruno10@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev) 
+## Projetos Criativos
 
-  <a href="https://www.linkedin.com/in/wenderson-bruno/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</div>
+🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
-  </div>
+1. [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição emocionante do projeto e como ele mudou o mundo.
+2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma aventura fascinante com código e arte.
+3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma experiência interativa que desafia as leis da física.
 
-  <!-- LADO DIREITO - IMAGEM GRANDE -->
-</div>
+## Vamos Criar Algo Incrível! 💫
+
+💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
+
+## Vamos Conectar!
+
+[![Instagram](https://img.shields.io/badge/-{Nome}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
+[![Facebook](https://img.shields.io/badge/-{Nome}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})]({Link})
+[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link})
+
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26\&rank_icon=percentile)
 
 
  
