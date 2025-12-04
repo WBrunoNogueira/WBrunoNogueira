@@ -1,6 +1,9 @@
 ### olá sou Wenderson Bruno 👋
-- 🔭 DEV Fullstack
-- 💫   JAVA | JS | TYPESCRIPT | React | Angular | 
+
+Sou desenvolvedor fullstack com experiencia a 4 anos.
+
+Atualmente s
+
 - 📫 email wenderson.bruno.nogueira@gmail.com
 
 <div align="center">
