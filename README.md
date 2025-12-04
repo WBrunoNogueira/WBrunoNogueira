@@ -1,5 +1,4 @@
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
-
   <!-- LADO ESQUERDO - CONTEÚDO -->
   <div style="max-width: 60%;">
 
@@ -13,7 +12,7 @@
 <br>
 <img width="12" src="https://github.com/user-attachments/assets/c555f66e-7e92-4ffc-8493-e676fa6c3347" /> Especializando-se em **Spring Framework, APIs REST e Microsserviços**
 
-<br>
+<br> 
 
 📩 **Contato:**  
 📫 **Email:** wenderson.bruno.nogueira@gmail.com  
@@ -47,16 +46,8 @@
   </div>
 
   <!-- LADO DIREITO - IMAGEM GRANDE -->
-  <div style="max-width: 35%;">
-    <img 
-      src="https://github.com/user-attachments/assets/cb26e5d8-b69b-43d8-aeab-b7be926f3aaf"
-      alt="Imagem ilustrativa"
-      width="100%"
-    />
-  </div>
-c
 </div>
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cb26e5d8-b69b-43d8-aeab-b7be926f3aaf" />
+
 
  
 
