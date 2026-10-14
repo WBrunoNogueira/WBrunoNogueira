@@ -32,7 +32,9 @@
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev) 
-## Projetos Criativos
+
+
+<!--## Projetos Criativos
 
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
@@ -43,8 +45,8 @@
 ## Vamos Criar Algo Incrível! 💫
 
 💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
-
-## Vamos Conectar!
+-->
+## Contato
 
 [![Instagram](https://img.shields.io/badge/-{Nome}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
 [![Facebook](https://img.shields.io/badge/-{Nome}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})]({Link})
